@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Introduction to my blog
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I will be using this platform to keep track of my trade ideas. Winning and losing trades will also be included. The forex market is constantly moving and evolving, and if you're unable to adapt to different market conditions you will never be prepared. Backtesting and rewiewing your trades (wins and losses) will help benefit your trading decisions once market is live, and being prepared means identifying a good trade setup and executing!
