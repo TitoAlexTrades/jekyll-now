@@ -5,8 +5,6 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!##
-
 A forex trader journaling trade ideas
 
 
@@ -19,4 +17,4 @@ A forex trader journaling trade ideas
 
 ### Contact me
 
-[email@domain.com](alexrmno@outlook.com)
+[alexrmno@outlook.com](alexrmno@outlook.com)
