@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-A forex trader journaling trade ideas
+Journaling my trade ideas
 
 
 ### More Information
