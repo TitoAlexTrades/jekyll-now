@@ -17,4 +17,4 @@ Journaling my trade ideas
 
 ### Contact me
 
-[titoalextrades@outlook.com](titoalextrades@outlook.com)
+[titoalextrades@outlook.com](mailto:titoalextrades@outlook.com)
